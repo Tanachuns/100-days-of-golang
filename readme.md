@@ -1,8 +1,8 @@
 # Golang EveryDay
 
   
-- [x] Setting Up Your Go Environment
-- [x] Predeclared Types and Declarations
+- [x] day01 - Setting Up Your Go Environment
+- [x] day02 - Predeclared Types and Declarations
 
   
 
